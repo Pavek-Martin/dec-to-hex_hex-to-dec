@@ -1,0 +1,483 @@
+
+--------- dec -> hex ------------------- 239 policek 10-ff v hexa oproti puvodnik 62 tj. 3,8x tolik
+16 dec = 10 hex
+17 dec = 11 hex
+18 dec = 12 hex
+19 dec = 13 hex
+20 dec = 14 hex
+21 dec = 15 hex
+22 dec = 16 hex
+23 dec = 17 hex
+24 dec = 18 hex
+25 dec = 19 hex
+26 dec = 1a hex
+27 dec = 1b hex
+28 dec = 1c hex
+29 dec = 1d hex
+30 dec = 1e hex
+31 dec = 1f hex
+32 dec = 20 hex
+33 dec = 21 hex
+34 dec = 22 hex
+35 dec = 23 hex
+36 dec = 24 hex
+37 dec = 25 hex
+38 dec = 26 hex
+39 dec = 27 hex
+40 dec = 28 hex
+41 dec = 29 hex
+42 dec = 2a hex
+43 dec = 2b hex
+44 dec = 2c hex
+45 dec = 2d hex
+46 dec = 2e hex
+47 dec = 2f hex
+48 dec = 30 hex
+49 dec = 31 hex
+50 dec = 32 hex
+51 dec = 33 hex
+52 dec = 34 hex
+53 dec = 35 hex
+54 dec = 36 hex
+55 dec = 37 hex
+56 dec = 38 hex
+57 dec = 39 hex
+58 dec = 3a hex
+59 dec = 3b hex
+60 dec = 3c hex
+61 dec = 3d hex
+62 dec = 3e hex
+63 dec = 3f hex
+64 dec = 40 hex
+65 dec = 41 hex
+66 dec = 42 hex
+67 dec = 43 hex
+68 dec = 44 hex
+69 dec = 45 hex
+70 dec = 46 hex
+71 dec = 47 hex
+72 dec = 48 hex
+73 dec = 49 hex
+74 dec = 4a hex
+75 dec = 4b hex
+76 dec = 4c hex
+77 dec = 4d hex
+78 dec = 4e hex
+79 dec = 4f hex
+80 dec = 50 hex
+81 dec = 51 hex
+82 dec = 52 hex
+83 dec = 53 hex
+84 dec = 54 hex
+85 dec = 55 hex
+86 dec = 56 hex
+87 dec = 57 hex
+88 dec = 58 hex
+89 dec = 59 hex
+90 dec = 5a hex
+91 dec = 5b hex
+92 dec = 5c hex
+93 dec = 5d hex
+94 dec = 5e hex
+95 dec = 5f hex
+96 dec = 60 hex
+97 dec = 61 hex
+98 dec = 62 hex
+99 dec = 63 hex
+100 dec = 64 hex
+101 dec = 65 hex
+102 dec = 66 hex
+103 dec = 67 hex
+104 dec = 68 hex
+105 dec = 69 hex
+106 dec = 6a hex
+107 dec = 6b hex
+108 dec = 6c hex
+109 dec = 6d hex
+110 dec = 6e hex
+111 dec = 6f hex
+112 dec = 70 hex
+113 dec = 71 hex
+114 dec = 72 hex
+115 dec = 73 hex
+116 dec = 74 hex
+117 dec = 75 hex
+118 dec = 76 hex
+119 dec = 77 hex
+120 dec = 78 hex
+121 dec = 79 hex
+122 dec = 7a hex
+123 dec = 7b hex
+124 dec = 7c hex
+125 dec = 7d hex
+126 dec = 7e hex
+127 dec = 7f hex
+128 dec = 80 hex
+129 dec = 81 hex
+130 dec = 82 hex
+131 dec = 83 hex
+132 dec = 84 hex
+133 dec = 85 hex
+134 dec = 86 hex
+135 dec = 87 hex
+136 dec = 88 hex
+137 dec = 89 hex
+138 dec = 8a hex
+139 dec = 8b hex
+140 dec = 8c hex
+141 dec = 8d hex
+142 dec = 8e hex
+143 dec = 8f hex
+144 dec = 90 hex
+145 dec = 91 hex
+146 dec = 92 hex
+147 dec = 93 hex
+148 dec = 94 hex
+149 dec = 95 hex
+150 dec = 96 hex
+151 dec = 97 hex
+152 dec = 98 hex
+153 dec = 99 hex
+154 dec = 9a hex
+155 dec = 9b hex
+156 dec = 9c hex
+157 dec = 9d hex
+158 dec = 9e hex
+159 dec = 9f hex
+160 dec = a0 hex
+161 dec = a1 hex
+162 dec = a2 hex
+163 dec = a3 hex
+164 dec = a4 hex
+165 dec = a5 hex
+166 dec = a6 hex
+167 dec = a7 hex
+168 dec = a8 hex
+169 dec = a9 hex
+170 dec = aa hex
+171 dec = ab hex
+172 dec = ac hex
+173 dec = ad hex
+174 dec = ae hex
+175 dec = af hex
+176 dec = b0 hex
+177 dec = b1 hex
+178 dec = b2 hex
+179 dec = b3 hex
+180 dec = b4 hex
+181 dec = b5 hex
+182 dec = b6 hex
+183 dec = b7 hex
+184 dec = b8 hex
+185 dec = b9 hex
+186 dec = ba hex
+187 dec = bb hex
+188 dec = bc hex
+189 dec = bd hex
+190 dec = be hex
+191 dec = bf hex
+192 dec = c0 hex
+193 dec = c1 hex
+194 dec = c2 hex
+195 dec = c3 hex
+196 dec = c4 hex
+197 dec = c5 hex
+198 dec = c6 hex
+199 dec = c7 hex
+200 dec = c8 hex
+201 dec = c9 hex
+202 dec = ca hex
+203 dec = cb hex
+204 dec = cc hex
+205 dec = cd hex
+206 dec = ce hex
+207 dec = cf hex
+208 dec = d0 hex
+209 dec = d1 hex
+210 dec = d2 hex
+211 dec = d3 hex
+212 dec = d4 hex
+213 dec = d5 hex
+214 dec = d6 hex
+215 dec = d7 hex
+216 dec = d8 hex
+217 dec = d9 hex
+218 dec = da hex
+219 dec = db hex
+220 dec = dc hex
+221 dec = dd hex
+222 dec = de hex
+223 dec = df hex
+224 dec = e0 hex
+225 dec = e1 hex
+226 dec = e2 hex
+227 dec = e3 hex
+228 dec = e4 hex
+229 dec = e5 hex
+230 dec = e6 hex
+231 dec = e7 hex
+232 dec = e8 hex
+233 dec = e9 hex
+234 dec = ea hex
+235 dec = eb hex
+236 dec = ec hex
+237 dec = ed hex
+238 dec = ee hex
+239 dec = ef hex
+240 dec = f0 hex
+241 dec = f1 hex
+242 dec = f2 hex
+243 dec = f3 hex
+244 dec = f4 hex
+245 dec = f5 hex
+246 dec = f6 hex
+247 dec = f7 hex
+248 dec = f8 hex
+249 dec = f9 hex
+250 dec = fa hex
+251 dec = fb hex
+252 dec = fc hex
+253 dec = fd hex
+254 dec = fe hex
+255 dec = ff hex
+--------- hex -> dec ----------------------------------------
+hex 10 = 16 = 16 dec
+hex 11 = 17 = 17 dec
+hex 12 = 18 = 18 dec
+hex 13 = 19 = 19 dec
+hex 14 = 20 = 20 dec
+hex 15 = 21 = 21 dec
+hex 16 = 22 = 22 dec
+hex 17 = 23 = 23 dec
+hex 18 = 24 = 24 dec
+hex 19 = 25 = 25 dec
+hex 1a = 26 = 26 dec
+hex 1b = 27 = 27 dec
+hex 1c = 28 = 28 dec
+hex 1d = 29 = 29 dec
+hex 1e = 30 = 30 dec
+hex 1f = 31 = 31 dec
+hex 20 = 32 = 32 dec
+hex 21 = 33 = 33 dec
+hex 22 = 34 = 34 dec
+hex 23 = 35 = 35 dec
+hex 24 = 36 = 36 dec
+hex 25 = 37 = 37 dec
+hex 26 = 38 = 38 dec
+hex 27 = 39 = 39 dec
+hex 28 = 40 = 40 dec
+hex 29 = 41 = 41 dec
+hex 2a = 42 = 42 dec
+hex 2b = 43 = 43 dec
+hex 2c = 44 = 44 dec
+hex 2d = 45 = 45 dec
+hex 2e = 46 = 46 dec
+hex 2f = 47 = 47 dec
+hex 30 = 48 = 48 dec
+hex 31 = 49 = 49 dec
+hex 32 = 50 = 50 dec
+hex 33 = 51 = 51 dec
+hex 34 = 52 = 52 dec
+hex 35 = 53 = 53 dec
+hex 36 = 54 = 54 dec
+hex 37 = 55 = 55 dec
+hex 38 = 56 = 56 dec
+hex 39 = 57 = 57 dec
+hex 3a = 58 = 58 dec
+hex 3b = 59 = 59 dec
+hex 3c = 60 = 60 dec
+hex 3d = 61 = 61 dec
+hex 3e = 62 = 62 dec
+hex 3f = 63 = 63 dec
+hex 40 = 64 = 64 dec
+hex 41 = 65 = 65 dec
+hex 42 = 66 = 66 dec
+hex 43 = 67 = 67 dec
+hex 44 = 68 = 68 dec
+hex 45 = 69 = 69 dec
+hex 46 = 70 = 70 dec
+hex 47 = 71 = 71 dec
+hex 48 = 72 = 72 dec
+hex 49 = 73 = 73 dec
+hex 4a = 74 = 74 dec
+hex 4b = 75 = 75 dec
+hex 4c = 76 = 76 dec
+hex 4d = 77 = 77 dec
+hex 4e = 78 = 78 dec
+hex 4f = 79 = 79 dec
+hex 50 = 80 = 80 dec
+hex 51 = 81 = 81 dec
+hex 52 = 82 = 82 dec
+hex 53 = 83 = 83 dec
+hex 54 = 84 = 84 dec
+hex 55 = 85 = 85 dec
+hex 56 = 86 = 86 dec
+hex 57 = 87 = 87 dec
+hex 58 = 88 = 88 dec
+hex 59 = 89 = 89 dec
+hex 5a = 90 = 90 dec
+hex 5b = 91 = 91 dec
+hex 5c = 92 = 92 dec
+hex 5d = 93 = 93 dec
+hex 5e = 94 = 94 dec
+hex 5f = 95 = 95 dec
+hex 60 = 96 = 96 dec
+hex 61 = 97 = 97 dec
+hex 62 = 98 = 98 dec
+hex 63 = 99 = 99 dec
+hex 64 = 100 = 100 dec
+hex 65 = 101 = 101 dec
+hex 66 = 102 = 102 dec
+hex 67 = 103 = 103 dec
+hex 68 = 104 = 104 dec
+hex 69 = 105 = 105 dec
+hex 6a = 106 = 106 dec
+hex 6b = 107 = 107 dec
+hex 6c = 108 = 108 dec
+hex 6d = 109 = 109 dec
+hex 6e = 110 = 110 dec
+hex 6f = 111 = 111 dec
+hex 70 = 112 = 112 dec
+hex 71 = 113 = 113 dec
+hex 72 = 114 = 114 dec
+hex 73 = 115 = 115 dec
+hex 74 = 116 = 116 dec
+hex 75 = 117 = 117 dec
+hex 76 = 118 = 118 dec
+hex 77 = 119 = 119 dec
+hex 78 = 120 = 120 dec
+hex 79 = 121 = 121 dec
+hex 7a = 122 = 122 dec
+hex 7b = 123 = 123 dec
+hex 7c = 124 = 124 dec
+hex 7d = 125 = 125 dec
+hex 7e = 126 = 126 dec
+hex 7f = 127 = 127 dec
+hex 80 = 128 = 128 dec
+hex 81 = 129 = 129 dec
+hex 82 = 130 = 130 dec
+hex 83 = 131 = 131 dec
+hex 84 = 132 = 132 dec
+hex 85 = 133 = 133 dec
+hex 86 = 134 = 134 dec
+hex 87 = 135 = 135 dec
+hex 88 = 136 = 136 dec
+hex 89 = 137 = 137 dec
+hex 8a = 138 = 138 dec
+hex 8b = 139 = 139 dec
+hex 8c = 140 = 140 dec
+hex 8d = 141 = 141 dec
+hex 8e = 142 = 142 dec
+hex 8f = 143 = 143 dec
+hex 90 = 144 = 144 dec
+hex 91 = 145 = 145 dec
+hex 92 = 146 = 146 dec
+hex 93 = 147 = 147 dec
+hex 94 = 148 = 148 dec
+hex 95 = 149 = 149 dec
+hex 96 = 150 = 150 dec
+hex 97 = 151 = 151 dec
+hex 98 = 152 = 152 dec
+hex 99 = 153 = 153 dec
+hex 9a = 154 = 154 dec
+hex 9b = 155 = 155 dec
+hex 9c = 156 = 156 dec
+hex 9d = 157 = 157 dec
+hex 9e = 158 = 158 dec
+hex 9f = 159 = 159 dec
+hex a0 = 160 = 160 dec
+hex a1 = 161 = 161 dec
+hex a2 = 162 = 162 dec
+hex a3 = 163 = 163 dec
+hex a4 = 164 = 164 dec
+hex a5 = 165 = 165 dec
+hex a6 = 166 = 166 dec
+hex a7 = 167 = 167 dec
+hex a8 = 168 = 168 dec
+hex a9 = 169 = 169 dec
+hex aa = 170 = 170 dec
+hex ab = 171 = 171 dec
+hex ac = 172 = 172 dec
+hex ad = 173 = 173 dec
+hex ae = 174 = 174 dec
+hex af = 175 = 175 dec
+hex b0 = 176 = 176 dec
+hex b1 = 177 = 177 dec
+hex b2 = 178 = 178 dec
+hex b3 = 179 = 179 dec
+hex b4 = 180 = 180 dec
+hex b5 = 181 = 181 dec
+hex b6 = 182 = 182 dec
+hex b7 = 183 = 183 dec
+hex b8 = 184 = 184 dec
+hex b9 = 185 = 185 dec
+hex ba = 186 = 186 dec
+hex bb = 187 = 187 dec
+hex bc = 188 = 188 dec
+hex bd = 189 = 189 dec
+hex be = 190 = 190 dec
+hex bf = 191 = 191 dec
+hex c0 = 192 = 192 dec
+hex c1 = 193 = 193 dec
+hex c2 = 194 = 194 dec
+hex c3 = 195 = 195 dec
+hex c4 = 196 = 196 dec
+hex c5 = 197 = 197 dec
+hex c6 = 198 = 198 dec
+hex c7 = 199 = 199 dec
+hex c8 = 200 = 200 dec
+hex c9 = 201 = 201 dec
+hex ca = 202 = 202 dec
+hex cb = 203 = 203 dec
+hex cc = 204 = 204 dec
+hex cd = 205 = 205 dec
+hex ce = 206 = 206 dec
+hex cf = 207 = 207 dec
+hex d0 = 208 = 208 dec
+hex d1 = 209 = 209 dec
+hex d2 = 210 = 210 dec
+hex d3 = 211 = 211 dec
+hex d4 = 212 = 212 dec
+hex d5 = 213 = 213 dec
+hex d6 = 214 = 214 dec
+hex d7 = 215 = 215 dec
+hex d8 = 216 = 216 dec
+hex d9 = 217 = 217 dec
+hex da = 218 = 218 dec
+hex db = 219 = 219 dec
+hex dc = 220 = 220 dec
+hex dd = 221 = 221 dec
+hex de = 222 = 222 dec
+hex df = 223 = 223 dec
+hex e0 = 224 = 224 dec
+hex e1 = 225 = 225 dec
+hex e2 = 226 = 226 dec
+hex e3 = 227 = 227 dec
+hex e4 = 228 = 228 dec
+hex e5 = 229 = 229 dec
+hex e6 = 230 = 230 dec
+hex e7 = 231 = 231 dec
+hex e8 = 232 = 232 dec
+hex e9 = 233 = 233 dec
+hex ea = 234 = 234 dec
+hex eb = 235 = 235 dec
+hex ec = 236 = 236 dec
+hex ed = 237 = 237 dec
+hex ee = 238 = 238 dec
+hex ef = 239 = 239 dec
+hex f0 = 240 = 240 dec
+hex f1 = 241 = 241 dec
+hex f2 = 242 = 242 dec
+hex f3 = 243 = 243 dec
+hex f4 = 244 = 244 dec
+hex f5 = 245 = 245 dec
+hex f6 = 246 = 246 dec
+hex f7 = 247 = 247 dec
+hex f8 = 248 = 248 dec
+hex f9 = 249 = 249 dec
+hex fa = 250 = 250 dec
+hex fb = 251 = 251 dec
+hex fc = 252 = 252 dec
+hex fd = 253 = 253 dec
+hex fe = 254 = 254 dec
+hex ff = 255 = 255 dec
